@@ -3,7 +3,7 @@
 A classic browser-based **Stone Paper Scissors** game built with vanilla HTML, CSS, and JavaScript.
 
 ## 🎮 Live Demo
-[Play the game live on Render](#) *https://stone-paper-scissor-9xuu.onrender.com*
+ https://stone-paper-scissor-9xuu.onrender.com
 
 ## ✨ Features
 * **Interactive Gameplay:** Click on the Stone, Paper, or Scissors icons to make your move.
